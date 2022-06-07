@@ -5,6 +5,14 @@
 Création d'un bot discord en Python, avec le package discord py, permettant à un novice en programmation de récupérer des ressources 
 éducatives sur des langages de programmation.
 
+## Participant au projet
+| Personne            | Github                                   | Linkedin                                                                               |
+| ------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------- |
+| ARUMAINATHAN Rijenth        |  [@Rijenth](https://github.com/Rijenth) | [A_Rijenth](https://www.linkedin.com/in/rijentha/)                       |
+| LESOING Valentin    |   |              |
+| PIVERT Fabrice  |  | |
+| BAKAYOKO Kader  |   |           |
+
 
 ## Les fonctionnalités du site
 
